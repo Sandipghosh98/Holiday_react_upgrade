@@ -1,3 +1,5 @@
+Note: please make sure that all the dependencies of the node modules are installed in the project while running the project. Otherwise it will give an error of node module not found.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
